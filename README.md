@@ -1,4 +1,4 @@
-# Updated Trade Dashboard
+# Canada's International Trade Report
 
 This repository contains the Power BI dashboard and PySpark code for the **Updated Trade Dashboard project**, which tracks Canada’s investment and trade data.
 
